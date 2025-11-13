@@ -1,1 +1,10 @@
-com uma descrição do projeto
+## com uma descrição do projeto
+
+-
+-
+-
+-
+
+Como contribuir....
+
+Licença....
